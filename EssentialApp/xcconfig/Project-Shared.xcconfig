@@ -8,3 +8,4 @@
 #include "../../xcconfig/Shared.xcconfig"
 
 SDKROOT = iphoneos
+TARGETED_DEVICE_FAMILY = 1,2
