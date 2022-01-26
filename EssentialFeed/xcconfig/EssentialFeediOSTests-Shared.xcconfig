@@ -5,7 +5,6 @@
 // https://github.com/dempseyatgithub/BuildSettingExtractor
 //
 
-CLANG_ENABLE_MODULES = YES
 CODE_SIGN_IDENTITY = iPhone Developer
 CODE_SIGN_STYLE = Automatic
 DEVELOPMENT_TEAM = VRJ2W4578X
