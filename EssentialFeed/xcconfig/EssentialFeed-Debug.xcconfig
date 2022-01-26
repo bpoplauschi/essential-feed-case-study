@@ -6,5 +6,3 @@
 //
 
 #include "EssentialFeed-Shared.xcconfig"
-
-SWIFT_OPTIMIZATION_LEVEL = -Onone
