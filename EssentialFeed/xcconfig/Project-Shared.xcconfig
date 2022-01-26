@@ -8,6 +8,7 @@
 #include "../../xcconfig/Shared.xcconfig"
 
 CODE_SIGN_IDENTITY = Mac Developer
+CODE_SIGN_STYLE = Automatic
 CURRENT_PROJECT_VERSION = 1
 SDKROOT = macosx
 VERSION_INFO_PREFIX =
