@@ -6,7 +6,3 @@
 //
 
 #include "EssentialFeed-Shared.xcconfig"
-
-//********************************************//
-//* Currently no build settings in this file *//
-//********************************************//
