@@ -9,6 +9,5 @@ CODE_SIGN_IDENTITY = iPhone Developer
 INFOPLIST_FILE = EssentialFeediOSTests/Info.plist
 LD_RUNPATH_SEARCH_PATHS = $(inherited) @executable_path/Frameworks @loader_path/Frameworks
 PRODUCT_BUNDLE_IDENTIFIER = com.essentialdeveloper.EssentialFeediOSTests
-PRODUCT_NAME = $(TARGET_NAME)
 SDKROOT = iphoneos
 TARGETED_DEVICE_FAMILY = 1,2
