@@ -39,7 +39,7 @@ public final class CommentsUIComposer {
 }
 
 final class CommentsViewAdapter: ResourceView {
-	private weak var controller: ListViewController?
+	private var controller: ListViewController?
 	
 	init(controller: ListViewController) {
 		self.controller = controller
