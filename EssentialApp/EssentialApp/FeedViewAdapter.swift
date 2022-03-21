@@ -84,6 +84,9 @@ extension UIImage {
 		guard let image = UIImage(data: data) else {
 			throw InvalidImageData()
 		}
+		
+		let rawData = image.pngData()
+		print(rawData ?? "")
 		return image
 	}
 }
